@@ -6,7 +6,8 @@
   background: -webkit-linear-gradient(left top, lightblue, green); /* For Safari 5.1 to 6.0 */
   background: -o-linear-gradient(bottom right, lightblue, green); /* For Opera 11.1 to 12.0 */
   background: -moz-linear-gradient(bottom right, lightblue, green); /* For Firefox 3.6 to 15 */
-  background: linear-gradient(to bottom right, lightblue, green)
+  background: linear-gradient(to bottom right, lightblue, green);
+  text-align:center;
 }
 
 #clicks {
@@ -15,7 +16,8 @@
 
 #hero {
   text-align:center;
-  padding-top:100px;
+  padding-top:150px;
+  padding-bottom:150px;
 }
 
 body {
